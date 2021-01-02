@@ -1,0 +1,4 @@
+baseURL = "https://mguarascio.github.io"
+languageCode = "en-us"
+title = "Mike Guarascio"
+theme = "ink"
