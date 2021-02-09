@@ -2,6 +2,7 @@ baseURL = "https://mguarascio.com/"
 languageCode = "en-us"
 title = "Mike Guarascio"
 theme = "ink"
+googleAnalytics = "G-L2E8FW3B10"
 
 [params]
 	subtitle = "Tech, running, parenting, learning"
